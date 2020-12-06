@@ -1,4 +1,4 @@
 # Kotlin Generic Playground
 
-Commits
-- Initial commit - Generic Class
+- Generic Class
+- Generic Function
