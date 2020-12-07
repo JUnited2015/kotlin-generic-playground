@@ -2,3 +2,4 @@
 
 - Generic Class
 - Generic Function
+- Invariant
