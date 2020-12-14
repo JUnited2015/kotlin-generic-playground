@@ -7,3 +7,4 @@
 - Contravariant
 - Generic Constraint
 - Type Projection
+- Star Projection
