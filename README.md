@@ -8,3 +8,4 @@
 - Generic Constraint
 - Type Projection
 - Star Projection
+- Type Erasure
