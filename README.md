@@ -9,3 +9,4 @@
 - Type Projection
 - Star Projection
 - Type Erasure
+- Comparable Interface
