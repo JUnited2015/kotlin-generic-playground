@@ -11,3 +11,4 @@
 - Type Erasure
 - Comparable Interface
 - ReadOnlyProperty Interface
+- ReadWriteProperty Interface
