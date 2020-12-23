@@ -10,3 +10,4 @@
 - Star Projection
 - Type Erasure
 - Comparable Interface
+- ReadOnlyProperty Interface
