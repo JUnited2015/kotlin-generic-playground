@@ -12,3 +12,4 @@
 - Comparable Interface
 - ReadOnlyProperty Interface
 - ReadWriteProperty Interface
+- ObservableProperty Interface
